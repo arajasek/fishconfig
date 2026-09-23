@@ -1,3 +1,3 @@
 function c
-    claude 
+    claude $argv
 end
