@@ -1,3 +1,3 @@
 function grm
-    git rebase main
+    git rebase main $argv
 end

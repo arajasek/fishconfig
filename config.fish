@@ -3,5 +3,6 @@ if status is-interactive
 end
 
 # opencode
-fish_add_path /Users/raj/.opencode/bin
+fish_add_path $HOME/.opencode/bin
 export PATH="$HOME/.local/bin:$PATH"
+umask 002
